@@ -1,4 +1,4 @@
-PicWorld
+ViewPicWorld
 ========
 
   Bienvenidos, PicWorld es la nueva Api con la que podremos ver lugares de todo el mundo, a través fotos asombrosas. Con comentarios a través de twiiter de sus experiencias y sus fotos.
